@@ -9,7 +9,7 @@ ul{
     height: 60px;
     align-items: center;
     justify-content:center;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     border-bottom: 2px solid rgb(61, 61, 61);
 }
 
@@ -22,7 +22,7 @@ a{
     color:white;
 }
 a:hover{
-    border-bottom: 2px solid aquamarine;
+    border-bottom: 2px solid rgb(0, 255, 170);
     font-size: 30pt;
 }
 
